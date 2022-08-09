@@ -29,7 +29,7 @@
     font-size: 20;} 
     
 
-  body {background-image: url(/imeg/reflex1.jpg); height: 300;}
+  body {background-image: url(imeg/reflex1.jpg); height: 300;}
 
   .footer {
     position: fixed;
