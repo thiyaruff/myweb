@@ -1,0 +1,21 @@
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Uchen">
+    <style>
+      body {
+        font-family: 'Uchen', serif;
+        font-size: 48;
+        color: rgb(233, 248, 247); 
+      }
+    </style>
+     <style>
+      body {
+        background-image: url(/imeg/contactback.jpeg.jpg) ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+      }
+    
+
+      </style>
+  </body>
